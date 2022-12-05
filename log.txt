@@ -1,0 +1,23 @@
+commit 2859c82b44099288a98d2ae048c0b523a1f702df
+Author: vismay-spt <visu.aa9@gmail.com>
+Date:   Mon Dec 5 15:36:31 2022 -0600
+
+    Final Edited by Vismay
+
+commit a32deb0b49de7a24ee916b9fccd3129b18299270
+Author: JinalPatel52681-Sep <patel52681@saskpolytech.ca>
+Date:   Mon Dec 5 15:18:32 2022 -0600
+
+    Initalization of Data frame for COVID-19 effects on stock market
+
+commit 1a565b36a2dbc814acd0dbf27ec1edb4970c57da
+Author: JinalPatel52681-Sep <patel52681@saskpolytech.ca>
+Date:   Mon Dec 5 13:42:44 2022 -0600
+
+    Intial Commit
+
+commit 965429eba07e4bbbfefb7a5309fbf7c5f3481fa0
+Author: Jinalkumar Patel <118483046+JinalPatel52681-Sep@users.noreply.github.com>
+Date:   Mon Dec 5 13:11:23 2022 -0600
+
+    Initial commit
