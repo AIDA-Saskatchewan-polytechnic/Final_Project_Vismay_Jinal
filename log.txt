@@ -1,3 +1,15 @@
+commit 98fa8c8b26f2f29df237e6b9070cc6b7d0dba5da
+Author: JinalPatel52681-Sep <patel52681@saskpolytech.ca>
+Date:   Mon Dec 5 23:48:47 2022 -0600
+
+    Adding Some Changes
+
+commit f17f8d8c18407df148482bb31e49a14d1e5d9170
+Author: JinalPatel52681-Sep <patel52681@saskpolytech.ca>
+Date:   Mon Dec 5 15:44:00 2022 -0600
+
+    Added Log file by Jinal
+
 commit 2859c82b44099288a98d2ae048c0b523a1f702df
 Author: vismay-spt <visu.aa9@gmail.com>
 Date:   Mon Dec 5 15:36:31 2022 -0600
